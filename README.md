@@ -23,22 +23,22 @@ A website allowing job seekers to create a profile, browse job listings, apply f
 ### Our team divided responsibilities as follows:
 
 **Michael Smith**\
-*Product Manager and Software Engineer*\
+*Product Manager and Software Engineer*
 
 **Michael Elliott**\
-*Architecture Owner and Software Engineer*\
+*Architecture Owner and Software Engineer*
 
 **Jacob Peterson**\
-*UI/UX Owner and Software Engineer*\
+*UI/UX Owner and Software Engineer*
 
 **Daniel Kosykh**\
-*Software Engineer*\
+*Software Engineer*
 
 **Kevin Ng**\
-*Software Engineer*\
+*Software Engineer*
 
 **Ricky Zhao**\
-*Software Engineer*\
+*Software Engineer*
 
 ## Technologies Used
 1. React
