@@ -9,7 +9,7 @@
 ,
 [Michael Elliott](https://github.com/melliottgithub)
 ,
-[Michael Smith](https://github.com/mijamessmith),
+[Michael Smith](https://github.com/mijamessmith)
 , and
 [Ricky Zhao](https://github.com/rickBucket)
 ---
