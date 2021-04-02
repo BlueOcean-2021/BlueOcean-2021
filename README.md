@@ -1,13 +1,13 @@
 # JobSite
 ## Connecting People to Jobs and Jobs to People
 *by*
-[Daniel Kosykh](https://github.com/dankosykh)
+[Michael Elliott](https://github.com/melliottgithub)
 ,
-[Jacob Peterson](https://github.com/JacobWPeterson/PPFEC)
+[Daniel Kosykh](https://github.com/dankosykh)
 ,
 [Kevin Ng](https://github.com/kevin-the-engi)
 ,
-[Michael Elliott](https://github.com/melliottgithub)
+[Jacob Peterson](https://github.com/JacobWPeterson/PPFEC)
 ,
 [Michael Smith](https://github.com/mijamessmith)
 , and
